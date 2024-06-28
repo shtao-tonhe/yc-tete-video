@@ -33,6 +33,9 @@
         "think-config": "data/config"
     },
     "config": {
-        "vendor-dir": "vendor"
+        "vendor-dir": "vendor",
+        "allow-plugins": {
+            "topthink/think-installer": true
+        }
     }
 }
